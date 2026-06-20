@@ -1,0 +1,1 @@
+python  .\eval_llm.py  --load_from   ..\minimind-3
